@@ -1,0 +1,12 @@
+# Ignore png files
+*.png
+
+# Ignore logs
+*.log
+
+# ignore folders
+dsc-phase-1-project-template/
+dsc-phase-1-project-v3/
+
+#ignore working files
+cleaned_flight_data
