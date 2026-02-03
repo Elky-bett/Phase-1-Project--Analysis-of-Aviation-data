@@ -30,14 +30,17 @@ The following visualizations were done:
     - Top accident locations
     
 ## Conclusion
-    - The top 5 most common aircraft types dominate the dataset, suggesting that incident reporting is concentrated among widely used models. 
-    - A small number of operators account for disproportionately high fatalities
-    - The majority of incidents fall under Write-Off and Substantial damage categories, while Minor and No Damage are relatively rare. The presence of missing/unknown entries highlights gaps in reporting consistency and data quality.
+From the analysis it is conluded that;
+- Incident reporting is concentrated among a handful of aircraft types.
+- A few operators account for most fatalities.
+- Severe damage categories drive nearly all fatal outcomes.
+- Missing or inconsistent data highlights the need for stronger reporting standards.
+
 
 ## Recommendations
-    - There is need for deeper analysis on the top 5 aircraft types to identify whether their high incident counts are purely due to usage volume or linked to specific safety vulnerabilities.
-    - Strengthen reporting standards to minimize “Unknown” or “Missing” classifications.
-    - Extend the study to temporal trends (accident dates) and geographic distribution (locations) to uncover patterns that could inform preventive measures
+    - There is need to investigate high‑incident aircraft types to distinguish between usage volume and design vulnerabilities.
+   - Conduct operator specific audits targeting those with disproportionate fatalities.
+   - Strengthen reporting standards to reduce missing or unknown classifications.
 
 
 ## Links to Data sources
