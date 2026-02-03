@@ -40,3 +40,20 @@ The following visualizations were done:
     - Extend the study to temporal trends (accident dates) and geographic distribution (locations) to uncover patterns that could inform preventive measures
 
 
+## Links to Data sources
+This project had been prepared with data and literature from the following sources;
+- Link to Tableau Dashboard source: https://public.tableau.com/app/profile/eliud.kibet/vizzes
+- Link to Templates: https://github.com/learn-co-curriculum/dsc-project-template
+- Link to Templates: https://github.com/learn-co-curriculum/dsc-phase-1-project-v3
+- Loink to Data source:https://www.kaggle.com/datasets/anandkushawaha/aviation-crashed-flights-data?resource=download
+
+## Navigating the repository
+This reportory contains the following files to be used;
+1- notebook - this provides the codes run in the project
+2- tableaue dashboard- includes a visualization of the key highlights
+3- non-technical presentation in both powerpoint and pdf versions
+4- git ignore file
+5- folder containing th dataset used for this project
+
+
+
